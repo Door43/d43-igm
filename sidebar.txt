@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[igm:home|Door43 (igm)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-igm|d43-igm repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-igm/archive/master.zip|d43-igm.zip]]
+
+**Recent Changes**
+{{changes>ns = igm}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/igm|Ethnologue data]]
+
